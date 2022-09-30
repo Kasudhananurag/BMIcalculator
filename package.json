@@ -1,0 +1,11 @@
+{
+  "name": "bmi",
+  "version": "1.0.0",
+  "description": "A BMI Calculator ade my me solely as a response to Dr. Angela Yu's Challange",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag Kasudhan",
+  "license": "ISC"
+}
